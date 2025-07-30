@@ -7,7 +7,7 @@
 using namespace std;
 
 int main() {
-    int sum=0, average, max, min;
+    int max, min;
     int arr[5] = {14,8,12,28,20};
     
     for(int i=0 ; i<5 ; i++){
