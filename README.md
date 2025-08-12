@@ -156,7 +156,9 @@ cin >> str;   // input
 ---
 
 ## Sample output: 
-program 1 
-
+program 1 Concatenation of string
+...
+Sanskriti Khairnar
+...
 
 ```
