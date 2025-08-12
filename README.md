@@ -158,10 +158,17 @@ cin >> str;   // input
 ## Sample output: 
 program 1 Concatenation of string
 
----
-
 Sanskriti Khairnar
 
----
+program 2 Find no. in array
+
+Enter the index of the element you want to find (from 0-4): 4
+20
+
+program 3 Maximun and minimum
+
+14	8	12	28	20	
+The maximum number is: 28
+The minimum number is: 8
 
 ```
