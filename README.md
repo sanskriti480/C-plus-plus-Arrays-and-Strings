@@ -156,19 +156,67 @@ cin >> str;   // input
 ---
 
 ## Sample output: 
-program 1 Concatenation of string
+**Concatenation of string**
 
 Sanskriti Khairnar
 
-program 2 Find no. in array
+**Find no. in array**
 
 Enter the index of the element you want to find (from 0-4): 4
+
 20
 
-program 3 Maximun and minimum
+**Maximun and minimum**
 
 14	8	12	28	20	
+
 The maximum number is: 28
+
 The minimum number is: 8
 
-```
+**Print string**
+
+C++
+
+C++
+
+C++
+
+C++
+
+**Print array**
+
+4	8	12	16	20
+
+**String palindrome**
+
+Enter a word: madam
+
+Palindrome
+
+**String reverse**
+
+Enter a word: Science
+
+Reversed word :ecneicS
+
+**Sum and average of array**
+
+4	8	12	16	20	
+
+The sum is: 60
+
+The average is: 12
+
+---
+
+## Conclusion
+
+C++ provides a rich set of tools for handling arrays and strings more safely and efficiently than C.
+
+Using std::string eliminates manual memory handling errors common in C.
+
+Array operations in C++ are straightforward but benefit from STL containers like vector for flexibility.
+
+These programs demonstrate fundamental programming concepts like loops, conditionals, arrays, and strings.
+
